@@ -6,7 +6,7 @@ export const DATA = {
   initials: "AS",
   url: "https://aditya.is-a.dev",
   location: "Delhi, India",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  locationLink: "https://www.google.com/maps/place/delhi",
   description:
     "Full-Stack Web Developer. I love experimenting with new technologies and staying up-to-date and trying to push my limits. currently exploring AI, ML",
   summary:
