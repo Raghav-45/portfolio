@@ -129,7 +129,7 @@ export const DATA = {
       ],
       image: "",
       video:
-        "http://res.cloudinary.com/dguhwtehs/video/upload/v1741175747/portfolio/m55dp991zyvl3jpplnzf.mp4",
+        "https://res.cloudinary.com/dguhwtehs/video/upload/v1741175747/portfolio/m55dp991zyvl3jpplnzf.mp4",
     },
     {
       title: "CSI Innowave Official Website",
