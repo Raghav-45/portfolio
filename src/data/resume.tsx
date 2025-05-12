@@ -81,7 +81,7 @@ export const DATA = {
       href: "https://spacedrive.com",
       badges: [],
       location: "Remote",
-      title: "Top 15 Contributor",
+      title: "Top 12 Contributor",
       logoUrl: "https://www.spacedrive.com/_next/static/media/logo.71d6d465.png",
       start: "Jul 2023",
       end: "Aug 2024",
