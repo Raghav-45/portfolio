@@ -8,7 +8,7 @@ export const DATA = {
   location: "Delhi, India",
   locationLink: "https://www.google.com/maps/place/delhi",
   description:
-    "Full-Stack Web developer with main focus on building high-quality web applications. Proficient in React.js. I love staying up-to-date and trying to push my limits.",
+    "Full-Stack Web developer with main focus on building high-quality web applications. I love staying up-to-date and trying to push my limits.",
   summary:
     "Currently enrolled in [Bachelor of Technology in Information Technology Engineering](#education). Apart from coding, I enjoy traveling, meeting new people, and playing badminton.",
   avatarUrl: "me.jpg",
