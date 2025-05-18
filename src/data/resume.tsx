@@ -11,7 +11,7 @@ export const DATA = {
     "Full-Stack Web developer with main focus on building high-quality web applications. I love staying up-to-date and trying to push my limits.",
   summary:
     "Currently enrolled in [Bachelor of Technology in Information Technology Engineering](#education). Apart from coding, I enjoy traveling, meeting new people, and playing badminton.",
-  avatarUrl: "me.jpg",
+  avatarUrl: "https://github.com/raghav-45.png",
   skills: [
     "React",
     "Next.js",
